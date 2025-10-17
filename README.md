@@ -1,16 +1,71 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This website showcases my projects, skills, and experience as a Frontend Web Developer and Computer Science student. Built with **React.js**, **Tailwind CSS**, and **React Router**, it demonstrates my expertise in creating responsive and interactive web applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👨‍💻 About Me
 
-## React Compiler
+I am a passionate Frontend Web Developer and Computer Science student with strong expertise in **React.js**, **JavaScript (ES6+)**, and **Tailwind CSS**.  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+While I specialize in frontend development, I also have solid knowledge of **MERN stack fundamentals** including **Node.js**, **Express.js**, and **MongoDB**, allowing me to understand full-stack development workflows.  
 
-## Expanding the ESLint configuration
+I thrive on solving complex problems and building responsive, interactive web applications that provide exceptional user experiences.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+| Skill | Proficiency |
+|-------|------------|
+| React.js | 90% |
+| JavaScript (ES6+) | 85% |
+| Tailwind CSS | 88% |
+| Responsive Design | 92% |
+
+### Backend Fundamentals
+| Skill | Experience |
+|-------|-----------|
+| Node.js | Basic |
+| Express.js | Basic |
+| MongoDB | Basic |
+| Firebase | Basic |
+
+### Other
+- HTML5  
+- CSS3  
+- React Router  
+
+---
+
+## 🚀 Features
+
+- Fully responsive design  
+- Smooth navigation with **React Router**  
+- Projects section with live demos and GitHub links  
+- Skills section with proficiency overview  
+- Contact form integration (optional)  
+- Interactive UI using Tailwind CSS  
+
+---
+
+## 📁 Project Structure
+
+```text
+portfolio/
+├── public/             # Static files (images, icons, etc.)
+├── src/
+│   ├── components/     # Reusable components (Navbar, Footer, Cards)
+│   ├── pages/          # Pages (Home, About, Projects, Contact)
+│   ├── assets/         # Images, icons, fonts
+│   └── App.jsx         # Main React component
+├── package.json
+├── tailwind.config.js
+└── README.md
+🌐 Live Demo
+
+Check out my live portfolio here: https://islamuddin-portfolio.netlify.app/
+
+```
+
