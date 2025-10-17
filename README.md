@@ -63,9 +63,13 @@ portfolio/
 ├── package.json
 ├── tailwind.config.js
 └── README.md
-## 🌐 Live Demo
 
-Check out my live portfolio here: [https://islamuddin-portfolio.netlify.app/](https://islamuddin-portfolio.netlify.app/)
+
 
 ```
+
+## 🌐 Live Demo
+
+Check out my live portfolio here: [My Portfolio](https://islamuddin-portfolio.netlify.app/)
+
 
